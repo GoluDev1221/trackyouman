@@ -1,0 +1,20 @@
+                                 Proprietary License
+
+Copyright (c) 2024 Piyush Joshi
+
+All rights reserved.
+
+1. **Grant of License**: You are granted a non-transferable, non-exclusive license to use this software solely for your internal, personal, and non-commercial use. You may not sell, rent, lease, sublicense, distribute, or otherwise transfer this software to any third party.
+
+2. **Restrictions**:
+    a. You may not modify, adapt, translate, or create derivative works based on the software.
+    b. You may not reverse engineer, decompile, or disassemble the software.
+    c. You may not remove or alter any proprietary notices or labels on the software.
+
+3. **Termination**: This license is effective until terminated. Your rights under this license will terminate automatically without notice from the copyright holder if you fail to comply with any term of this license. Upon termination, you must destroy all copies of the software.
+
+4. **Disclaimer of Warranty**: The software is provided "as is", without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the copyright holder be liable for any damages, including but not limited to special, incidental, or consequential damages, or damages for loss of profits, business interruption, or loss of information, arising out of the use or inability to use this software.
+
+5. **Governing Law**: This license shall be governed by and construed in accordance with the laws of India.
+
+For any inquiries, please contact Piyush Joshi.
